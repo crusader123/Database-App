@@ -1,0 +1,65 @@
+.button1 {
+    border: 1px solid #006;
+    background: #ccf;
+    width:150px;
+    height:75px;
+    font-size:20px;
+    
+}
+.button1:hover {
+    border: 1px solid #f00;
+    background: #eef;
+}
+.input {
+    border: 1px solid #006;
+    background: #ffc;
+}
+.input:hover {
+    border: 1px solid #f00;
+    background: #ff6;
+}
+.button {
+    border: 1px solid #006;
+    background: #ccf;
+}
+.button:hover {
+    border: 1px solid #f00;
+    background: #eef;
+}
+label {
+    display: block;
+    width: 150px;
+    float: left;
+    margin: 2px 4px 6px 4px;
+    text-align: right;
+}
+
+
+
+
+p
+{
+text-align:justify;
+letter-spacing:2px;
+color:Blue;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+a:link,a:visited
+{
+display:block;
+font-weight:bold;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+color:SteelBlue;
+background-color:SaddleBrown;
+width:150px;
+font-size:20px;
+text-align:center;
+padding:2px;
+text-decoration:underline;
+}
+a:hover,a:active
+{
+background-color:OrangeRed;
+}
+
